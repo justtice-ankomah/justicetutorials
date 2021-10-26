@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 helloo how are you doing today?
 
 Am doing very good today and you?
 
 Today is a good day or not?
+=======
+dfssdfsga
+>>>>>>> af664a1e9e57f72215392e686045b29593aebdbf
