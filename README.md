@@ -1,2 +1,2 @@
 # justicetutorials
-my repository for learning github
+my repository for learning github and git
